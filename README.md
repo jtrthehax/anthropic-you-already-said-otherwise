@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1296716476.svg)](https://doi.org/10.5281/zenodo.21299412)
+
 A contradiction‑closure paper examining the mismatch between Anthropic’s 2022–2025 input‑geometry claims and the 2026 workspace ontology.
 
 This repository contains a compact, structurally hardened analysis (≈200 lines) demonstrating that:
