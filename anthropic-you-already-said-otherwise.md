@@ -2,6 +2,7 @@
 ## Anthropic's 2026 Workspace Claim vs. Its Own Published Record
 
 ---
+[![DOI](https://zenodo.org/badge/1296716476.svg)](https://doi.org/10.5281/zenodo.21299412)
 
 **Primary target of this response:**
 Anthropic (2026). *Verbalizable Representations Form a Global Workspace in Language Models.*
