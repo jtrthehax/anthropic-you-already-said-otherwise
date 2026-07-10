@@ -70,19 +70,22 @@ What is ruled out is publishing the 2026 paper without acknowledging that the 20
 
 ### 3.5 The Missing Variable
 
-_Verbalizable Representations Form a Global Workspace in Language Models_ constructs its measurement instrument — the Jacobian lens — by averaging over text contexts drawn from a pretraining-like corpus. This is a legitimate calibration procedure designed to separate general verbalization capacity from context-specific use.
+Verbalizable Representations Form a Global Workspace in Language Models constructs its measurement instrument — the Jacobian lens — by averaging over text contexts drawn from a pretraining‑like corpus. This averaging is a legitimate calibration step if the goal is to isolate general verbalization tendencies from context‑specific usage.
 
-The methodological problem is not the averaging procedure itself. It is what was never included.
+The methodological problem is not the averaging procedure.
+It is the variable that was never measured.
 
-The experimental design contains no user variable. Every intervention in the paper — concept-swap tests, two-hop reasoning battery, flexible-generalization trials, multi-task ablation — is run on fixed researcher-constructed prompts or standard benchmarks. There is no variation in who is submitting the prompts. There is no test of whether the same workspace fires reliably across users with structurally different input geometry making equivalent requests.
+The experimental design contains no variation in input geometry. Every intervention — concept‑swap tests, two‑hop reasoning batteries, flexible‑generalization trials, multi‑task ablations — is run on fixed researcher‑constructed prompts or standard benchmarks. The experiments do not test whether workspace activation is stable across structurally different phrasings of equivalent requests. They do not test whether constraint density, referent specificity, or contextual framing modulate the workspace.
 
-This is not a neutral design choice. It is the choice that determines the conclusion before analysis begins.
+This is not a neutral omission.
+It is the omission that determines the conclusion.
 
-The 2026 paper's central claim is that workspace activation is an intrinsic property of the model. That claim requires user-independence to be demonstrated — not assumed. The experimental design assumes it by construction and then describes the result as a discovery about model internals.
+The 2026 paper’s central claim is that workspace activation is an intrinsic property of the model. That claim requires input‑independence to be demonstrated — not assumed. The experimental design assumes it by construction and then reports the assumption as a discovery about model internals.
 
-Anthropic's own 2022–2025 literature is the record showing that the user variable is real, structured, and causally active. The 2026 experimental design cannot speak to it either way. It was never designed to look. 
+Anthropic’s own 2022–2025 literature is the record showing that input geometry is real, structured, and causally active. The 2026 experimental design cannot speak to this variable either way. It was never designed to look.
 
-The absence of a user variable is not evidence that user variance doesn't matter. It is evidence that the paper never tested whether it does — while making claims that require it not to.
+The absence of input‑geometry variation is not evidence that input geometry does not matter.
+It is evidence that the paper never tested whether it does — while making claims that require it not to.
 
 ---
 
